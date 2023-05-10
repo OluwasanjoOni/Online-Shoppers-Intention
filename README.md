@@ -1,4 +1,5 @@
-# Online-Shoppers-Intention
+# Online-Shoppers-Intention (Product Categorisation)
+
 ## Data Description
 - The dataset has the following features: 1. Data Set Characteristics: Multivariate 2. Number of Instances: 50424. 3. Number of classes: 4
 ## Background and Context:
